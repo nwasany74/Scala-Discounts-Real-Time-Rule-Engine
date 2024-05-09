@@ -120,3 +120,6 @@ https://github.com/nwasany74/Scala-Discounts-Real-Time-Rule-Engine/assets/155104
 - **Documentation**: Documented the overall solution architecture, implementation details, setup instructions, and usage guidelines in the README file.
 - **Version Control**: Utilized version control (e.g., Git) to manage code changes, branches, and collaboration among team members.
 
+## Implemented by
+
+- **Solution Development**: Implemented by [Ibrahim Al-Nwasany]

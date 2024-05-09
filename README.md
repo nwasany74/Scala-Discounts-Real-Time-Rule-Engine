@@ -81,8 +81,6 @@ The following discount rules are applied to the transactions data:
 - **Code Consistency**: Ensured consistency in coding style, comments, and documentation with the PostgreSQL implementation.
 - **Error Handling**: Implemented robust error handling mechanisms to handle database errors and exceptions gracefully.
 
-  
-
 
 
 ## Oracle Implementation

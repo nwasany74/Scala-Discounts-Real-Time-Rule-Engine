@@ -67,6 +67,12 @@ The following discount rules are applied to the transactions data:
 - **Refinement**: Made necessary adjustments based on code review feedback and testing results to improve code quality and performance.
 - **Documentation**: Documented the PostgreSQL implementation, including setup instructions, code structure, and usage guidelines.
 
+  
+
+https://github.com/nwasany74/Scala-Discounts-Real-Time-Rule-Engine/assets/155104546/21332cc7-135c-46a8-9449-ab2dc5cbe226
+
+
+
 ## MySQL Implementation
 
 ### Approach

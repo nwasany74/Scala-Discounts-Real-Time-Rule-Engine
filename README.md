@@ -1,4 +1,5 @@
 # Scala Discounts Real-Time Rule Engine
+##A simple Scala Real-Time Rule Engine project that applies different discount rules to real-time transaction data and writes the results to a MySQL database. It also keeps tracking the logs data, and backups all data into CSV files.
 
 ## Problem Statement:
 A large retail store wants a rule engine that qualifies order transactions for discounts based on a set of qualifying rules.
@@ -106,6 +107,12 @@ https://github.com/nwasany74/Scala-Discounts-Real-Time-Rule-Engine/assets/155104
 - **Integration Testing**: Conducted comprehensive integration testing with Oracle database to verify functionality and performance.
 - **Compatibility Verification**: Ensured that the Oracle implementation produces consistent results with the PostgreSQL and MySQL implementations.
 - **Code Documentation**: Documented the Oracle implementation, including any specific considerations or configurations required for Oracle database.
+
+  
+
+https://github.com/nwasany74/Scala-Discounts-Real-Time-Rule-Engine/assets/155104546/7f211324-a9f8-4b0f-bc4d-a270ee3afd30
+
+
 
 ## Overall Solution Review
 - **Functional Completeness**: Ensured that the solution meets all the functional requirements specified in the project brief.

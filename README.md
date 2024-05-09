@@ -84,8 +84,6 @@ The following discount rules are applied to the transactions data:
   
 
 
-https://github.com/nwasany74/Scala-Discounts-Real-Time-Rule-Engine/assets/155104546/b2354cd4-4411-421e-9211-eca09d7bda6e
-
 
 ## Oracle Implementation
 

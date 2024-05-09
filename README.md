@@ -81,7 +81,11 @@ The following discount rules are applied to the transactions data:
 - **Code Consistency**: Ensured consistency in coding style, comments, and documentation with the PostgreSQL implementation.
 - **Error Handling**: Implemented robust error handling mechanisms to handle database errors and exceptions gracefully.
 
-[Watch the video explanation here](https://drive.google.com/file/d/1vO9hC3bADiIhGZ91kmyouaSQcANS4JK2/view?usp=sharing)
+
+
+https://github.com/nwasany74/Scala-Discounts-Real-Time-Rule-Engine/assets/155104546/94e1966c-e99d-4de0-9049-3160838be855
+
+
 
 
 ## Oracle Implementation

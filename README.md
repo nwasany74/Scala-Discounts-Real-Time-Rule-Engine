@@ -48,3 +48,55 @@ The following discount rules are applied to the transactions data:
 - It follows the Functional Programming approach, by using pure, immutable, and predictable behavior functions and data structures.
 - No loops and no Null values are used.
 - All functions are documented.
+
+  # Detailed Solution Overview
+
+## PostgreSQL Implementation
+
+### Approach
+- **Database Configuration**: Set up PostgreSQL database with the provided connection details.
+- **Code Structure**: Utilized Scala to implement the rule engine logic, database interactions, and logging.
+- **Functional Programming**: Ensured the core logic adheres to functional programming principles with immutable data structures, no vars, and pure functions.
+- **Qualifying Rules and Calculation Rules**: Implemented the specified rules for qualifying transactions and calculating discounts.
+- **Database Interaction**: Loaded the calculated discounts into the PostgreSQL database.
+- **Logging**: Recorded engine events in a log file (`rules_engine.log`).
+
+### Solution Review
+- **Code Review**: Each component of the solution was reviewed for clarity, correctness, and adherence to functional programming principles.
+- **Testing**: Conducted thorough testing to ensure that the discount calculation, database interactions, and logging functionalities work as expected.
+- **Refinement**: Made necessary adjustments based on code review feedback and testing results to improve code quality and performance.
+- **Documentation**: Documented the PostgreSQL implementation, including setup instructions, code structure, and usage guidelines.
+
+## MySQL Implementation
+
+### Approach
+- **Database Configuration**: Configured MySQL database with the provided connection details.
+- **Code Reusability**: Leveraged the existing Scala codebase and adapted it to work with MySQL database by updating the database connection details.
+- **Functional Equivalence**: Ensured that the MySQL implementation mirrors the functionality and structure of the PostgreSQL implementation.
+- **Compatibility Testing**: Tested the solution with MySQL to ensure compatibility and correct functionality.
+
+### Solution Review
+- **Cross-Validation**: Verified that the MySQL implementation produces the same results as the PostgreSQL implementation for identical input data.
+- **Performance Optimization**: Optimized database queries and interactions to enhance performance and efficiency.
+- **Code Consistency**: Ensured consistency in coding style, comments, and documentation with the PostgreSQL implementation.
+- **Error Handling**: Implemented robust error handling mechanisms to handle database errors and exceptions gracefully.
+
+## Oracle Implementation
+
+### Approach
+- **Database Configuration**: Set up Oracle database with the provided connection details.
+- **Code Adaptation**: Modified the existing Scala codebase to support Oracle database by updating the JDBC URL, username, and password.
+- **Compatibility Testing**: Tested the solution with Oracle database to ensure compatibility and correct functionality.
+- **Oracle-specific Considerations**: Addressed any Oracle-specific requirements or differences in database interaction.
+
+### Solution Review
+- **Integration Testing**: Conducted comprehensive integration testing with Oracle database to verify functionality and performance.
+- **Compatibility Verification**: Ensured that the Oracle implementation produces consistent results with the PostgreSQL and MySQL implementations.
+- **Code Documentation**: Documented the Oracle implementation, including any specific considerations or configurations required for Oracle database.
+
+## Overall Solution Review
+- **Functional Completeness**: Ensured that the solution meets all the functional requirements specified in the project brief.
+- **Code Quality**: Reviewed and refined the codebase to maintain high code quality, readability, and maintainability.
+- **Documentation**: Documented the overall solution architecture, implementation details, setup instructions, and usage guidelines in the README file.
+- **Version Control**: Utilized version control (e.g., Git) to manage code changes, branches, and collaboration among team members.
+

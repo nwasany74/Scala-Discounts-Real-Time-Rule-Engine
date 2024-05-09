@@ -122,4 +122,4 @@ https://github.com/nwasany74/Scala-Discounts-Real-Time-Rule-Engine/assets/155104
 
 ## Implemented by
 
-- **Solution Development**: Implemented by [Ibrahim Al-Nwasany]
+- **Solution Development**:[Ibrahim Al-Nwasany]
